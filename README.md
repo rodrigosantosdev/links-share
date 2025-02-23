@@ -4,12 +4,6 @@ Este documento contém uma lista de bibliotecas úteis para o desenvolvimento de
 
 ## Lista de Bibliotecas
 
-# Bibliotecas Compartilhadas
-
-Este documento contém uma lista de bibliotecas úteis para o desenvolvimento de software. Cada biblioteca está acompanhada de uma breve descrição e um link para mais informações.
-
-## Lista de Bibliotecas
-
 ### Clerk
 
 **Descrição:** Clerk é uma biblioteca para autenticação e gerenciamento de usuários em aplicações web.
